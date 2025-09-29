@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: "Dra. Loyana Gonzaga | Médica Veterinária Especialista",
     description:
       "Cuidados veterinários completos com equipamentos modernos e atendimento humanizado. Seu pet merece o melhor cuidado médico especializado.",
-    url: "https://dra-loyana-veterinaria.vercel.app/",
+    url: "https://loyana-gonzaga-cwqa.vercel.app/",
     siteName: "Dra. Loyana Gonzaga - Veterinária",
     images: [
       {
