@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.seusite.com/sitemap.xml
+Sitemap: https://loyana-gonzaga-cwqa.vercel.app/sitemap.xml
