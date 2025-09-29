@@ -40,9 +40,9 @@ export default function Head() {
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "Endereço da Clínica",
-            "addressLocality": "Sua Cidade",
+            "addressLocality": "Lajinha",
             "addressRegion": "MG",
-            "postalCode": "00000-000",
+            "postalCode": "36980-000",
             "addressCountry": "BR"
           },
           "openingHours": [
@@ -64,8 +64,8 @@ export default function Head() {
             "@type": "GeoCircle",
             "geoMidpoint": {
               "@type": "GeoCoordinates",
-              "latitude": -19.8157,
-              "longitude": -43.9542
+              "latitude": -20.158174,
+              "longitude": -41.620313
             },
             "geoRadius": "50000"
           },
