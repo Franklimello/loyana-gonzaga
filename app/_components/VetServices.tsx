@@ -145,7 +145,7 @@ export function VetServices() {
                           <span>{item.duration}</span>
                         </div>
                         <span className="text-lg font-semibold text-slate-900">
-                          {item.price}
+                          
                         </span>
                       </div>
                       
