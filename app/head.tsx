@@ -24,7 +24,7 @@ export default function Head() {
         content="Cuidados veterinários completos com equipamentos modernos e atendimento humanizado. Seu pet merece o melhor cuidado."
       />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://loyana-gonzaga-cwqa.vercel.app/" />
+      <meta property="og:url" content="https://loyana-gonzaga.vercel.app/" />
       <meta property="og:image" content="/og-image-veterinaria.jpeg" />
 
       {/* Dados estruturados para veterinária */}
@@ -34,7 +34,7 @@ export default function Head() {
           "@type": "VeterinaryCare",
           "name": "Dra. Loyana Gonzaga - Médica Veterinária",
           "description": "Clínica veterinária especializada em cuidados completos para pets",
-          "url": "https://loyana-gonzaga-cwqa.vercel.app/",
+          "url": "https://loyana-gonzaga.vercel.app/",
           "telephone": "+55-33-99963-8245",
           "email": "dra.loyana@veterinaria.com",
           "address": {
@@ -93,7 +93,7 @@ export default function Head() {
       <meta name="ICBM" content="-19.8157, -43.9542" />
 
       {/* URL canônica */}
-      <link rel="canonical" href="https://loyana-gonzaga-cwqa.vercel.app/" />
+      <link rel="canonical" href="https://loyana-gonzaga.vercel.app/" />
 
       {/* Meta tags para dispositivos móveis */}
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />

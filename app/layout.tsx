@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: "Dra. Loyana Gonzaga | Médica Veterinária Especialista",
     description:
       "Cuidados veterinários completos com equipamentos modernos e atendimento humanizado. Seu pet merece o melhor cuidado médico especializado.",
-    url: "https://loyana-gonzaga-cwqa.vercel.app/",
+    url: "https://loyana-gonzaga.vercel.app/",
     siteName: "Dra. Loyana Gonzaga - Veterinária",
     images: [
       {
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     google: "WKbHrteBd7ZVAata6JEWdk1U8D2AAF8Smo41RTP5XFU",
   },
   alternates: {
-    canonical: "https://loyana-gonzaga-cwqa.vercel.app/",
+    canonical: "https://loyana-gonzaga.vercel.app/",
   },
   category: "Medicina Veterinária",
   other: {
@@ -88,7 +88,7 @@ const veterinaryStructuredData = {
   "@context": "https://schema.org",
   "@type": "VeterinaryCare",
   name: "Dra. Loyana Gonzaga - Clínica Veterinária",
-  url: "https://loyana-gonzaga-cwqa.vercel.app/",
+  url: "https://loyana-gonzaga.vercel.app/",
   telephone: "+55 31 99999-9999",
   address: {
     "@type": "PostalAddress",
